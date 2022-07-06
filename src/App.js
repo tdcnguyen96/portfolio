@@ -9,9 +9,6 @@ function App() {
   return (
     <div style={{height: '100vh', backgroundColor: 'rgb(39, 40, 34)'}}>
       <Header />
-      <div>
-      <JsonView/>
-      </div>
     </div>
     
   );
